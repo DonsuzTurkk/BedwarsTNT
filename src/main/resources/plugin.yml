@@ -1,0 +1,5 @@
+name: BedwarsTNT
+version: 1.0
+main: tr.donsuzturk.bedwarstnt.BedwarsTNT
+api-version: 1.16
+authors: [ DonsuzTurk ]
